@@ -104,7 +104,11 @@ Beth Abraham - 10 Academy KAIM 9 Cohort
 ## License
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 This project is for educational purposes as part of the 10 Academy training program.
 =======
 This project is for educational purposes as part of the 10 Academy training program.
 >>>>>>> task-1
+=======
+This project is for educational purposes as part of the 10 Academy training program.
+>>>>>>> 4c5c4d028ae697eb79818bda6f22a77b240baf4b
