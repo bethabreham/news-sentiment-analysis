@@ -18,30 +18,31 @@ Analysis of financial news headlines and their correlation with stock price move
    pip install -r requirements.txt
 
 ## Project Structure
+
 ```
 news-sentiment-analysis/
-   ├── .github/workflows/
-   │   └── unittests.yml
-   ├── .vscode/
-   │   └── settings.json
-   ├── data/
-   │   └── raw/
-   │       ├── news_data.csv
-   │       ├── AAPL.csv
-   │       ├── AMZN.csv
-   │       ├── GOOG.csv
-   │       ├── META.csv
-   │       └── NVDA.csv
-   ├── notebooks/
-   │   ├── task1_eda.ipynb
-   │   ├── task2_technical_indicators.ipynb
-   │   └── task3_sentiment_correlation.ipynb
-   ├── src/
-   ├── scripts/
-   ├── tests/
-   ├── .gitignore
-   ├── requirements.txt
-   └── README.md
+├── .github/workflows/
+│   └── unittests.yml
+├── .vscode/
+│   └── settings.json
+├── data/
+│   └── raw/
+│       ├── news_data.csv
+│       ├── AAPL.csv
+│       ├── AMZN.csv
+│       ├── GOOG.csv
+│       ├── META.csv
+│       └── NVDA.csv
+├── notebooks/
+│   ├── task1_eda.ipynb
+│   ├── task2_technical_indicators.ipynb
+│   └── task3_sentiment_correlation.ipynb
+├── src/
+├── scripts/
+├── tests/
+├── .gitignore
+├── requirements.txt
+└── README.md
 ```
 
 ### Key Findings (Task 1 - EDA)
