@@ -41,8 +41,6 @@ news-sentiment-analysis/
 ├── src/
 ├── scripts/
 ├── tests/
-├── .gitignore
-├── requirements.txt
 └── README.md
 ```
 
