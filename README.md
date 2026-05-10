@@ -18,6 +18,7 @@ Analysis of financial news headlines and their correlation with stock price move
    pip install -r requirements.txt
 
 ## Project Structure
+```
 news-sentiment-analysis/
 ├── .github/workflows/
 │   └── unittests.yml
@@ -41,19 +42,26 @@ news-sentiment-analysis/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+```
 
 ### Key Findings (Task 1 - EDA)
 
 **Dataset size:** 1.4 million news articles (2011-2020)
+
 **Top publishers:** Paul Quintaro (228k), Lisa Levin (187k), Benzinga Newsdesk (150k)
+
 **Peak news volume:** 2019-2020
+
 **Most mentioned stocks:** MRK, MS, NVDA, MU, QQQ, NFLX
+
 **Common keywords:** "stocks", "earnings", "market", "shares", "price", "upgrades"
 
 ### Technical Indicators (Task 2)
 
 Implemented for AAPL stock (2009-2024):
+
 **Simple Moving Average (20-day and 50-day)**
+
 **RSI (Relative Strength Index - 14-day)**
 
 ## Next Steps (Task 3 - In Progress)
