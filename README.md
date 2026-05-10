@@ -19,12 +19,18 @@ Analysis of financial news headlines and their correlation with stock price move
 
 ## Project Structure
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ```
 >>>>>>> task-1
+=======
+
+```
+>>>>>>> 8e1fd5c05e7f163d49218c7ca22110242e5293e0
 news-sentiment-analysis/
-├── .github/workflows/
-│   └── unittests.yml
+├── .github/
+│   └── workflows/
+│       └── unittests.yml
 ├── .vscode/
 │   └── settings.json
 ├── data/
@@ -46,17 +52,28 @@ news-sentiment-analysis/
 ├── requirements.txt
 └── README.md
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ```
 >>>>>>> task-1
+=======
+```
+>>>>>>> 8e1fd5c05e7f163d49218c7ca22110242e5293e0
 
 ### Key Findings (Task 1 - EDA)
 
 **Dataset size:** 1.4 million news articles (2011-2020)
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8e1fd5c05e7f163d49218c7ca22110242e5293e0
 **Top publishers:** Paul Quintaro (228k), Lisa Levin (187k), Benzinga Newsdesk (150k)
+
 **Peak news volume:** 2019-2020
+
 **Most mentioned stocks:** MRK, MS, NVDA, MU, QQQ, NFLX
+<<<<<<< HEAD
 =======
 
 **Top publishers:** Paul Quintaro (228k), Lisa Levin (187k), Benzinga Newsdesk (150k)
@@ -66,18 +83,27 @@ news-sentiment-analysis/
 **Most mentioned stocks:** MRK, MS, NVDA, MU, QQQ, NFLX
 
 >>>>>>> task-1
+=======
+
+>>>>>>> 8e1fd5c05e7f163d49218c7ca22110242e5293e0
 **Common keywords:** "stocks", "earnings", "market", "shares", "price", "upgrades"
 
 ### Technical Indicators (Task 2)
 
 Implemented for AAPL stock (2009-2024):
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Simple Moving Average (20-day and 50-day)**
 =======
 
 **Simple Moving Average (20-day and 50-day)**
 
 >>>>>>> task-1
+=======
+
+**Simple Moving Average (20-day and 50-day)**
+
+>>>>>>> 8e1fd5c05e7f163d49218c7ca22110242e5293e0
 **RSI (Relative Strength Index - 14-day)**
 
 ## Next Steps (Task 3 - In Progress)
