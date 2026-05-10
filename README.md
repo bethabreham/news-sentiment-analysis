@@ -21,8 +21,9 @@ Analysis of financial news headlines and their correlation with stock price move
 
 ```
 news-sentiment-analysis/
-├── .github/workflows/
-│   └── unittests.yml
+├── .github/
+│   └── workflows/
+│       └── unittests.yml
 ├── .vscode/
 │   └── settings.json
 ├── data/
